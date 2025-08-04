@@ -13,6 +13,33 @@
   }
 }
 
+.botao-contato {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #00ffd5;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+body {
+background-color: #020e1b; /* Cor clara (cinza Bootstrap) */
+ }
+
+.botao-instagram {
+  background-color: #e1306c;
+  color: rgb(26, 2, 2);
+  padding: 10px 15px;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.botao-instagram i {
+  margin-right: 8px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
